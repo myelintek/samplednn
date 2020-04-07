@@ -1,0 +1,9 @@
+{
+	"samples": [
+		"classification",
+		"objectdetection",
+		"dataaugmentation",
+		"k-fold"
+	],
+	"msg": "Myelintek Public Model Store"
+}
